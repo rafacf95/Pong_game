@@ -53,5 +53,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "Pong Demo.sln"
+    "dotnet.defaultSolution": "Pong_game.sln"
 }
