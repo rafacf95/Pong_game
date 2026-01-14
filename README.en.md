@@ -5,6 +5,7 @@
 
 A simple implementation of the classic **Pong** game, developed for
 learning purposes using Unity and C#.
+Developed during classes on the EBAC platform.
 
 ## About the Project
 

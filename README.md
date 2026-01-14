@@ -5,6 +5,7 @@
 
 Uma implementação simples do clássico jogo **Pong**, criada com foco em
 aprendizado usando Unity e C#.
+Desenvolvido durante as aulas da plataforma EBAC.
 
 ## Sobre o projeto
 
